@@ -968,6 +968,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [GermanTech Jobs](https://germantechjobs.de/) : Dedicated job board for tech roles in Germany - with salary brackets
 - [We Work Remotely](https://weworkremotely.com/) : The largest remote work community in the world.
 - [OkJob](https://okjob.io/) : 4 day week job board.
+- [Levels.fyi](https://www.levels.fyi/) : Salaries and tools to level up your career
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
